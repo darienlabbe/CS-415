@@ -3,7 +3,7 @@
  *   under a curve. In this particular program, the intervals [a,b], the      *
  *   number of intervals, and the line represented by f(x) are hard coded.    *
  *   However, each one of these numbers (except for f(x)) could be replaced   *
- *   with prompting the user to provide these values.
+ *   with prompting the user to provide these values.                         *
  *                                                                            *
  * @author Darien Labbe                                                       *
  * @file  trapezoidal-rule.c                                                  *
